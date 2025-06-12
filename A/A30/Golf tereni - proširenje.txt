@@ -1,0 +1,21 @@
+/*    PROSIRENJE     */
+CREATE TABLE Sudija (
+  ID INT PRIMARY KEY,
+  ime VARCHAR(50),
+  prezime VARCHAR(50),
+  adresa VARCHAR(100),
+  telefon VARCHAR(20),
+  email VARCHAR(50)
+);
+
+/*    PROSIRENJE     */
+CREATE TABLE Sudija_Teren (
+  Sudija_ID INT,
+  Teren_ID INT,
+  PRIMARY KEY (sudija_id, teren_id),
+  FOREIGN KEY (Sudija_ID) REFERENCES Sudija(ID),
+  FOREIGN KEY (Teren_ID) REFERENCES Teren(teren_id)
+);
+
+/*    PROSIRENJE     */
+ALTER TABLE Teren ADD kategorija VARCHAR(50);

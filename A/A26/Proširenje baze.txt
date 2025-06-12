@@ -1,0 +1,8 @@
+ALTER TABLE uplata
+ADD datum_uplate DATE;
+CREATE TABLE detalji_dodatka
+(
+    detalji_dodatka_id INT PRIMARY KEY,
+    dodatak_id INT NOT NULL REFERENCES dodatak(dodatak_id),
+    specifikacija NVARCHAR(100) NOT NULL  -- npr. "Internet brzina: 100Mbps", "Tip televizora: LED"
+);

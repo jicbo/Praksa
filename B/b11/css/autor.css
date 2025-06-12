@@ -1,0 +1,10 @@
+main {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	gap: 4rem;
+	padding: 1.5rem;
+	color: #2b5480;
+}
+

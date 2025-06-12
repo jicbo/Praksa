@@ -1,0 +1,14 @@
+h1, p {
+	text-align: center;
+}
+p {
+	font-size: 18px;
+}
+
+section {
+	display: none;
+}
+
+section.active {
+	display: block;
+}

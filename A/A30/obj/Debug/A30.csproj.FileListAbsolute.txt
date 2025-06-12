@@ -1,0 +1,34 @@
+C:\xampp\htdocs\Matura\Praksa\Programiranje\A30\bin\Debug\A30.exe.config
+C:\xampp\htdocs\Matura\Praksa\Programiranje\A30\bin\Debug\A30.exe
+C:\xampp\htdocs\Matura\Praksa\Programiranje\A30\bin\Debug\A30.pdb
+C:\xampp\htdocs\Matura\Praksa\Programiranje\A30\obj\Debug\A30.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Matura\Praksa\Programiranje\A30\obj\Debug\A30.csproj.SuggestedBindingRedirects.cache
+C:\xampp\htdocs\Matura\Praksa\Programiranje\A30\obj\Debug\A30.Form1.resources
+C:\xampp\htdocs\Matura\Praksa\Programiranje\A30\obj\Debug\A30.Properties.Resources.resources
+C:\xampp\htdocs\Matura\Praksa\Programiranje\A30\obj\Debug\A30.csproj.GenerateResource.cache
+C:\xampp\htdocs\Matura\Praksa\Programiranje\A30\obj\Debug\A30.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Matura\Praksa\Programiranje\A30\obj\Debug\A30.exe
+C:\xampp\htdocs\Matura\Praksa\Programiranje\A30\obj\Debug\A30.pdb
+C:\Users\Programiranje\Desktop\Mihajlo Milojevic\Matura\Praksa\Programiranje\A30\obj\Debug\A30.csproj.AssemblyReference.cache
+C:\Users\Programiranje\Desktop\Mihajlo Milojevic\Matura\Praksa\Programiranje\A30\obj\Debug\A30.csproj.SuggestedBindingRedirects.cache
+C:\Users\Programiranje\Desktop\Mihajlo Milojevic\Matura\Praksa\Programiranje\A30\obj\Debug\A30.Form1.resources
+C:\Users\Programiranje\Desktop\Mihajlo Milojevic\Matura\Praksa\Programiranje\A30\obj\Debug\A30.Properties.Resources.resources
+C:\Users\Programiranje\Desktop\Mihajlo Milojevic\Matura\Praksa\Programiranje\A30\obj\Debug\A30.csproj.GenerateResource.cache
+C:\Users\Programiranje\Desktop\Mihajlo Milojevic\Matura\Praksa\Programiranje\A30\obj\Debug\A30.csproj.CoreCompileInputs.cache
+C:\Users\Programiranje\Desktop\Mihajlo Milojevic\Matura\Praksa\Programiranje\A30\obj\Debug\A30.exe
+C:\Users\Programiranje\Desktop\Mihajlo Milojevic\Matura\Praksa\Programiranje\A30\obj\Debug\A30.pdb
+C:\Users\Programiranje\Desktop\Mihajlo Milojevic\Matura\Praksa\Programiranje\A30\bin\Debug\A30.exe.config
+C:\Users\Programiranje\Desktop\Mihajlo Milojevic\Matura\Praksa\Programiranje\A30\bin\Debug\A30.exe
+C:\Users\Programiranje\Desktop\Mihajlo Milojevic\Matura\Praksa\Programiranje\A30\bin\Debug\A30.pdb
+C:\xampp\htdocs\Matura\Praksa\Programiranje\A30\obj\Debug\A30.Analiza.resources
+C:\Users\David\Desktop\matura zadaci reseni\A\A30\bin\Debug\A30.exe.config
+C:\Users\David\Desktop\matura zadaci reseni\A\A30\bin\Debug\A30.exe
+C:\Users\David\Desktop\matura zadaci reseni\A\A30\bin\Debug\A30.pdb
+C:\Users\David\Desktop\matura zadaci reseni\A\A30\obj\Debug\A30.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\matura zadaci reseni\A\A30\obj\Debug\A30.Analiza.resources
+C:\Users\David\Desktop\matura zadaci reseni\A\A30\obj\Debug\A30.Form1.resources
+C:\Users\David\Desktop\matura zadaci reseni\A\A30\obj\Debug\A30.Properties.Resources.resources
+C:\Users\David\Desktop\matura zadaci reseni\A\A30\obj\Debug\A30.csproj.GenerateResource.cache
+C:\Users\David\Desktop\matura zadaci reseni\A\A30\obj\Debug\A30.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\matura zadaci reseni\A\A30\obj\Debug\A30.exe
+C:\Users\David\Desktop\matura zadaci reseni\A\A30\obj\Debug\A30.pdb

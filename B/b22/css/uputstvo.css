@@ -1,0 +1,16 @@
+
+main {
+	padding: 4.1rem;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: flex-start;
+	gap: 3rem;
+	color: #2b5480;
+	
+}
+
+h2 {
+	font-size: 28px;
+	font-weight: bold;
+}
