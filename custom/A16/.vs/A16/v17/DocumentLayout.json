@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bojic\\Code\\C#\\MaturaSrednjaSkola\\A16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D974E117-BA55-40BE-BA16-FB9270735CAD}|A16\\A16.csproj|C:\\Users\\bojic\\Code\\C#\\MaturaSrednjaSkola\\A16\\a16\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D974E117-BA55-40BE-BA16-FB9270735CAD}|A16\\A16.csproj|solutionrelative:a16\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D974E117-BA55-40BE-BA16-FB9270735CAD}|A16\\A16.csproj|C:\\Users\\bojic\\Code\\C#\\MaturaSrednjaSkola\\A16\\a16\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D974E117-BA55-40BE-BA16-FB9270735CAD}|A16\\A16.csproj|solutionrelative:a16\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\bojic\\Code\\C#\\MaturaSrednjaSkola\\A16\\A16\\Form1.cs",
+              "RelativeDocumentMoniker": "A16\\Form1.cs",
+              "ToolTip": "C:\\Users\\bojic\\Code\\C#\\MaturaSrednjaSkola\\A16\\A16\\Form1.cs",
+              "RelativeToolTip": "A16\\Form1.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAAAJYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:56:04.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bojic\\Code\\C#\\MaturaSrednjaSkola\\A16\\A16\\Form1.cs",
+              "RelativeDocumentMoniker": "A16\\Form1.cs",
+              "ToolTip": "C:\\Users\\bojic\\Code\\C#\\MaturaSrednjaSkola\\A16\\A16\\Form1.cs [Design]",
+              "RelativeToolTip": "A16\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T14:55:20.419Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

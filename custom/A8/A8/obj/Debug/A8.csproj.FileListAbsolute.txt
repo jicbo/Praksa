@@ -1,0 +1,15 @@
+C:\Users\bojic\Code\C#\MaturaSrednjaSkola\A8\A8\bin\Debug\A8.exe.config
+C:\Users\bojic\Code\C#\MaturaSrednjaSkola\A8\A8\bin\Debug\A8.exe
+C:\Users\bojic\Code\C#\MaturaSrednjaSkola\A8\A8\bin\Debug\A8.pdb
+C:\Users\bojic\Code\C#\MaturaSrednjaSkola\A8\A8\obj\Debug\A8.csproj.AssemblyReference.cache
+C:\Users\bojic\Code\C#\MaturaSrednjaSkola\A8\A8\obj\Debug\A8.Form1.resources
+C:\Users\bojic\Code\C#\MaturaSrednjaSkola\A8\A8\obj\Debug\A8.Properties.Resources.resources
+C:\Users\bojic\Code\C#\MaturaSrednjaSkola\A8\A8\obj\Debug\A8.csproj.GenerateResource.cache
+C:\Users\bojic\Code\C#\MaturaSrednjaSkola\A8\A8\obj\Debug\A8.csproj.CoreCompileInputs.cache
+C:\Users\bojic\Code\C#\MaturaSrednjaSkola\A8\A8\obj\Debug\A8.exe
+C:\Users\bojic\Code\C#\MaturaSrednjaSkola\A8\A8\obj\Debug\A8.pdb
+C:\Users\bojic\Code\C#\MaturaSrednjaSkola\A8\A8\obj\Debug\A8.Form2.resources
+C:\Users\bojic\Code\C#\MaturaSrednjaSkola\A8\A8\obj\Debug\A8.Form3.resources
+C:\Users\bojic\Code\C#\MaturaSrednjaSkola\A8\A8\bin\Debug\System.Data.SqlClient.dll
+C:\Users\bojic\Code\C#\MaturaSrednjaSkola\A8\A8\bin\Debug\System.Data.SqlClient.xml
+C:\Users\bojic\Code\C#\MaturaSrednjaSkola\A8\A8\obj\Debug\A8.csproj.Up2Date
